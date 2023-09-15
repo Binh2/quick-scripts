@@ -1,0 +1,6 @@
+Alt + o: OCR the clipboard
+Alt + m: Play the music url in the clipboard
+Alt + z: Mouse right click
+Alt + p: Hunt and peck or shortcut for window control
+Alt + q: QR the clipboard
+Alt + s: Save clipboard's image
